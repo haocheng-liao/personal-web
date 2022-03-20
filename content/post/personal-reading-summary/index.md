@@ -7,12 +7,12 @@ date: 2022-03-18T00:00:00.000Z
 summary: Welcome 👋 I am reading some interest books about consulting,
   internet,and investment. Here I will post some personal summary and book
   review.
-draft: true
-featured: true
+draft: false
+featured: false
 authors:
   - Jerry
   - 廖浩程
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - Interest
   - Book
