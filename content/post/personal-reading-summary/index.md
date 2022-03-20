@@ -1,5 +1,5 @@
 ---
-title: Personal reading summary
+title: Personal reading
 subtitle: Welcome 👋 I am reading some interest books about consulting,
   internet,and investment. Here I will post some personal summary and book
   review.
@@ -22,9 +22,10 @@ categories:
 projects: []
 image:
   caption: "Image credit: [**JD**](https://https://e.jd.com/30304808.html)"
-  focal_point: ""
+  focal_point: Right
   placement: 2
   preview_only: false
+  filename: null
 ---
 <!--StartFragment-->
 
