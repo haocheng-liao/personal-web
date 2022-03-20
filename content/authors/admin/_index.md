@@ -1,7 +1,7 @@
 ---
 title: Haocheng Liao
 role: Student of UCLA
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: "My research interests include Human resource strategy, Dynamic portfolio
   investment and competitive strategy. "
 interests:
