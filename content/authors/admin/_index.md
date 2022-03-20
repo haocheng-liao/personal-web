@@ -1,77 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Haocheng Liao
+role: Student of UCLA
+avatar_filename: avatar.jpg
+bio: "My research interests include Human resource strategy, Dynamic portfolio
+  investment and competitive strategy. "
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Competitive strategy
+  - Human resource strategy
+  - Dynamic portfolio investment
+  - Stock and bond
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: weixin
+    icon_pack: fab
+    link: https://weixin.qq.com/
+    label: lhc-1999
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/haocheng-liao
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/%E6%B5%A9%E7%A8%8B-%E5%BB%96-3288b6215/
+organizations:
+  - name: University of California, Los angelos
+    url: https://www.ucla.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: Msc in Economic
+      institution: Santa Monica College
+      year: 2018
+    - course: " Msc in Economic"
+      institution: University of California, Los Angelos
+      year: 2021
+    - course: Msc Innovation management and Entrepreneurship
+      institution: " Brown university"
+      year: 2022
+email: haocheng1999@g.ucla.edu
+superuser: true
 highlight_name: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a undergraduate student in Economic in UCLA and an intern at the DiDi company for Leadership Advisory research. My research interests include Human resource strategy, Dynamic portfolio investment and competitive strategy. I am interested to do in-depth research on the portfolio investment of stock market and virtual currencies, such as in using the historical data of the exchange to regress the stock beta value, making dynamic portfolios based on historical volatility, mean risk, stock weight and variety structure adjustment - in order to look for investment methods to achieve low risk and high return to provide references to investors for making investment decisions.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--EndFragment-->
