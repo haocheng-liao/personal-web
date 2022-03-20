@@ -8,7 +8,7 @@ weight: 20
 title: "About me "
 design:
   background:
-    color: "#000000"
+    color: ""
 ---
 <!--StartFragment-->
 
