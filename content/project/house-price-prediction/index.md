@@ -1,5 +1,5 @@
 ---
-title: house  price prediction
+title: House  price prediction
 date: 2022-03-21T11:11:33.776Z
 draft: false
 featured: false
