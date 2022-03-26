@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: Credit card lead prediction
 url_pdf: ""
 summary: An example of building model to predict the potential bank costumer,
   and identify the characters of the costumer
@@ -22,9 +22,9 @@ links:
     name: Follow
     url: https://www.instagram.com//simple_jerry1999/
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo download form google
   focal_point: Smart
-  filename: featured.jpg
+  filename: featured2.jpg
 url_code: ""
 ---
 <!--StartFragment-->
