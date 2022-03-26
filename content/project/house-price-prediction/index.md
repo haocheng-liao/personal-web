@@ -12,7 +12,7 @@ tags:
 categories:
   - Economic
 image:
-  filename: featured
+  filename: featured3
   focal_point: Smart
   preview_only: false
 ---
