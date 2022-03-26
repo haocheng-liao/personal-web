@@ -17,7 +17,7 @@ categories:
   - Accounting
 links: []
 image:
-  filename: featured.jpg
+  filename: featured1.jpg
   focal_point: Smart
   preview_only: false
   
