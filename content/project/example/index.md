@@ -6,7 +6,7 @@ summary: An example of building model to predict the potential bank costumer,
 authors:
   - 廖浩程
 url_video: ""
-date: 2022-03-18T00:00:00.000Z
+date: 2022-03-26T16:43:51.125Z
 categories:
   - Economic
 external_link: ""
