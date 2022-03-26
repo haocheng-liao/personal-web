@@ -1,6 +1,6 @@
 ---
 slides: Credit card lead prediction
-url_pdf: "file:///C:/Users/liaohaocheng_i/Downloads/104-project-2.html#pf2"
+url_pdf: file:///C:/Users/liaohaocheng_i/Downloads/104-project-2.html#pf2
 summary: An example of building model to predict the potential bank costumer,
   and identify the characters of the costumer
 authors:
@@ -22,7 +22,7 @@ links:
     name: Follow
     url: https://www.instagram.com//simple_jerry1999/
 image:
-  caption: Photo download form google
+  caption: Photo download form website
   focal_point: Smart
   filename: featured2.jpg
 url_code: ""
