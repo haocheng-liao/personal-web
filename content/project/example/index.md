@@ -9,7 +9,7 @@ url_video: ""
 date: 2022-03-26T16:43:51.125Z
 categories:
   - Economic
-external_link: ""
+external_link: file:///C:/Users/liaohaocheng_i/Downloads/104-project-2.html#pf2
 url_slides: ""
 title: Credit Card Lead Prediction
 subtitle: Project example
