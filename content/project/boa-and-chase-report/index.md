@@ -6,6 +6,9 @@ summary: This is a project of figuring out the more prominent banks between BOA
   information to compare those two banks.
 draft: false
 featured: false
+authors:
+  - Jerry
+  - 廖浩程
 tags:
   - Excel
   - PDF
