@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Excel
 - description: 50%
-  icon: piano
+  icon: guitar
   icon_pack: fad
   name: piano
 - description: 30%
@@ -38,7 +38,7 @@ feature:
   name: guitar
 - description: 60%
   icon: basketball
-  icon_pack: fat
+  icon_pack: fas
   name: basketball
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
