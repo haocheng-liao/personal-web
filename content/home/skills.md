@@ -28,10 +28,6 @@ feature:
   icon: file-excel
   icon_pack: fas
   name: Excel
-- description: 50%
-  icon: piano
-  icon_pack: fas
-  name: piano
 - description: 30%
   icon: guitar
   icon_pack: fas
