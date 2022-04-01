@@ -13,7 +13,7 @@ tags:
 categories:
   - Consulting
 image:
-  filename: featured
+  filename: featured5.png
   focal_point: Center
   preview_only: false
 ---
