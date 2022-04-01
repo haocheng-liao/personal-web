@@ -37,7 +37,7 @@ feature:
   icon_pack: fas
   name: guitar
 - description: 60%
-  icon: basketball-hoop
+  icon: basketball-ball
   icon_pack: fas
   name: basketball
 # Uncomment to use emoji icons.
