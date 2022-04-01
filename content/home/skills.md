@@ -40,8 +40,6 @@ feature:
   icon: basketball
   icon_pack: fat
   name: basketball
-  
-
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
