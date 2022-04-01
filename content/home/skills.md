@@ -29,9 +29,9 @@ feature:
   icon_pack: fas
   name: Excel
 - description: 50%
-  icon: piano
+  icon: piano-keyboard
   icon_pack: fas
-  name: piano-keyboard
+  name: piano
 - description: 30%
   icon: guitar
   icon_pack: fas
