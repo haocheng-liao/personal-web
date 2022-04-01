@@ -3,8 +3,8 @@ slides: Credit card lead prediction
 url_pdf: ""
 summary: 
 This a project of figuring out the more prominent banks between BOA
-    and Chase, we collect the banks report form ford 10-k SEC and use the data and
-    information to compare those two banks.
+    and Chase, we collect the banks report form ford 10-k SEC and use the data and information to compare those two banks.
+    
 authors:
   - Haocheng Liao, KAIQI PENG, Wenting Yang, Danlei Wang, Yucong Chen
 url_video: ""
