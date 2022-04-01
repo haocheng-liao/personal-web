@@ -4,7 +4,7 @@ url_pdf: file:///C:/Users/liaohaocheng_i/Downloads/104-project-2.html#pf2
 summary: An example of building model to predict the potential bank costumer,
   and identify the characters of the costumer
 authors:
-  - 廖浩程
+  - Haocheng Liao, KAIQI PENG, Wenting Yang, Danlei Wang, Yucong Chen
 url_video: ""
 date: 2022-03-26T16:43:51.125Z
 categories:
@@ -14,8 +14,9 @@ url_slides: ""
 title: Credit Card Lead Prediction
 subtitle: Project example
 tags:
-  - R
+  - Economic
   - Modeling
+  - R
 links:
   - icon: instagram
     icon_pack: fab
