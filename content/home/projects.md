@@ -32,7 +32,7 @@ content:
   - name: Accounting
     tag: Accounting
   - name: Modeling
-    tag: R
+    tag: Modeling
   - name: Consulting
     tag: Consulting
 
