@@ -14,7 +14,7 @@ tags:
 categories:
   - Consulting
 image:
-  filename: featured
+  filename: featured4.png
   focal_point: Smart
   preview_only: false
 ---
