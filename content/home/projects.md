@@ -33,8 +33,8 @@ content:
     tag: Accounting
   - name: Modeling
     tag: R
-  - name: Consluting
-    tag: Consluting
+  - name: Consulting
+    tag: Consulting
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
