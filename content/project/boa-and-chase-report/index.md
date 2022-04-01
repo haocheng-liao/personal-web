@@ -9,11 +9,11 @@ authors:
   - Haocheng Liao,Alex, Vivian
 tags:
   - Accounting
-
 categories:
   - Accounting
 image:
   filename: featured1.jpg
+  focal_point: Smart
 ---
 <!--StartFragment-->
 
