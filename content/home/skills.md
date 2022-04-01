@@ -30,14 +30,14 @@ feature:
   name: Excel
 - description: 50%
   icon: guitar
-  icon_pack: fad
+  icon_pack: fas
   name: piano
 - description: 30%
   icon: guitar
   icon_pack: fas
   name: guitar
 - description: 60%
-  icon: basketball
+  icon: basketball-hoop
   icon_pack: fas
   name: basketball
 # Uncomment to use emoji icons.
