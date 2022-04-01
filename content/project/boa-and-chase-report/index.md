@@ -1,11 +1,11 @@
 ---
 slides: Credit card lead prediction
 url_pdf: ""
-summary: An example of building model to predict the potential bank costumer,
-  and identify the characters of the costumer
+summary: This a project of figuring out the more prominent banks between BOA,
+  and Chase, we collect the banks report form ford 10-k SEC.
     
 authors:
-  - Haocheng Liao, KAIQI PENG, Wenting Yang, Danlei Wang, Yucong Chen
+  - Haocheng Liao, Alex, Vivian
 url_video: ""
 date: 2022-03-26T16:43:51.125Z
 categories:
@@ -17,11 +17,7 @@ subtitle:
 tags:
   - Accounting
  
-links:
-  - icon: instagram
-    icon_pack: fab
-    name: Follow
-    url: https://www.instagram.com//simple_jerry1999/
+
 image:
 image:
   filename: featured1.jpg
