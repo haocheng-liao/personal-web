@@ -30,12 +30,17 @@ feature:
   name: Excel
 - description: 50%
   icon: piano
-  icon_pack: far
+  icon_pack: fad
   name: piano
 - description: 30%
   icon: guitar
   icon_pack: fas
   name: guitar
+- description: 60%
+  icon: basketball
+  icon_pack: fat
+  name: basketball
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
