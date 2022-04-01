@@ -24,8 +24,8 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
- # Contact details (edit or remove options as required)
- email: haocheng1999@g.ucla.edu
+  # Contact details (edit or remove options as required)
+  email: haocheng1999@g.ucla.edu
   phone: 213-550-8472
   address:
     street: 2 chenile
