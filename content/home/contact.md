@@ -44,7 +44,7 @@ content:
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: weixin
-      icon_pack: fas
+      icon_pack: fab
       name: lhc-1999
       
     - icon: video
