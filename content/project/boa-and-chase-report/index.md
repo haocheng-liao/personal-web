@@ -1,20 +1,34 @@
 ---
-title: BOA and CHASE report
-date: 2022-03-26T19:33:01.604Z
+slides: Credit card lead prediction
 url_pdf: ""
-summary: >-
-  This a project of figuring out the more prominent banks between BOA
+summary: 
+This a project of figuring out the more prominent banks between BOA
     and Chase, we collect the banks report form ford 10-k SEC and use the data and
     information to compare those two banks.
 authors:
-  - Haocheng Liao,Alex, Vivian
-tags:
-  - Accounting
+  - Haocheng Liao, KAIQI PENG, Wenting Yang, Danlei Wang, Yucong Chen
+url_video: ""
+date: 2022-03-26T16:43:51.125Z
 categories:
   - Accounting
+external_link: ""
+url_slides: ""
+title: BOA and CHASE report
+subtitle: 
+tags:
+  - Accounting
+ 
+links:
+  - icon: instagram
+    icon_pack: fab
+    name: Follow
+    url: https://www.instagram.com//simple_jerry1999/
+image:
 image:
   filename: featured1.jpg
   focal_point: BOTTOMRIGHT
+ 
+url_code: ""
 ---
 <!--StartFragment-->
 
