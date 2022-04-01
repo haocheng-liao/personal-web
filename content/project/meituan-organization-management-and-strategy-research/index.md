@@ -10,7 +10,6 @@ authors:
   - HaochengLiao
 tags:
   - Consulting
-  - Modeling
 categories:
   - Consulting
 image:
