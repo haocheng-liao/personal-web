@@ -25,7 +25,7 @@ experience:
   - title: Leadership Adivsory research analyst intern
     company: DIDI Chuxing
     company_url: 'https://www.didiglobal.com/'
-    company_logo: org-gc
+    company_logo: didichuxing
     location: Beijing
     date_start: '2021-11-18'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Part-time Assistant
     company: A.T.kearney
     company_url: 'https://www.kearney.com/'
-    company_logo: org-x
+    company_logo: Kearney
     location: Shanghai
     date_start: '2021-08-01'
     date_end: '2021-11-01'
