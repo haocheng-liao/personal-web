@@ -32,7 +32,7 @@ publication_short: In *Waiting to be published*
 abstract: Waiting to be published
 
 # Summary. An optional shortened abstract.
-summary: waiting
+summary: waiting to be published
 
 tags: []
 
