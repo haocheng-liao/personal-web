@@ -23,22 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"
@@ -46,6 +30,30 @@ item:
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
+  url: ""
+- certificate_url: https://coursera.org/share/1ae70e402ab8acacc4c9b370209d7fa4
+  date_end: ""
+  date_start: "2021-07-12"
+  description: "This course is the first in the specialization Introduction to Programming in C"
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Programming Fundamentals
+  url: ""
+- certificate_url: https://coursera.org/share/0ee6a0b1affc112c72c367ee0614ced7
+  date_end: ""
+  date_start: "2021-08-17"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: ' Business Metrics for Data-Driven Companies'
+  url: ""
+- certificate_url: https://coursera.org/share/b2ade156dbb5d0415275a2e83cbbc354
+  date_end: ""
+  date_start: "2021-08-23"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: '  Mathematics for Machine Learning: Linear Algebra'
   url: ""
 
 design:
