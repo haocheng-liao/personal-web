@@ -13,7 +13,7 @@ categories:
   - Accounting
 image:
   filename: featured1.jpg
-  focal_point: Smart
+  focal_point: BOTTOMRIGHT
 ---
 <!--StartFragment-->
 
