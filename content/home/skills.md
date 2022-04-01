@@ -31,7 +31,7 @@ feature:
 - description: 50%
   icon: piano
   icon_pack: fas
-  name: piano
+  name: piano-keyboard
 - description: 30%
   icon: guitar
   icon_pack: fas
