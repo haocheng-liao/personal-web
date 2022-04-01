@@ -10,10 +10,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Waiting"
+- "Waiting to be published"
 
 
-date: "2022"
+date: "023-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,10 +26,10 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *......*
-publication_short: In *......*
+publication: In *Waiting to be published*
+publication_short: In *Waiting to be published*
 
-abstract: waiting
+abstract: Waiting to be published
 
 # Summary. An optional shortened abstract.
 summary: waiting
